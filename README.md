@@ -19,7 +19,7 @@ nodemon app.js
 
 # API Testing
 Run the application and open Postman <br><br>
-# URL for the Backend - http://localhost:3000/ <br>
+
 1.Display all books (GET) - http://localhost:3000/ <br>
 2. GET a book using it's BOOK ID (GET) - http://localhost:3000/id <br>
 3. Insert a new Book to the DATABASE (POST) - http://localhost:3000/ <br>
