@@ -17,6 +17,10 @@ Navigate into the folder <br>
 Navigate into src folder - cd src <br>
 nodemon app.js
 
+# Credentials for Login
+User ID: harish <br>
+Password: 123123
+
 # API Testing
 Run the application and open Postman <br><br>
 
