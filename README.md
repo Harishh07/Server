@@ -1,5 +1,5 @@
 # Server
-This is the Back End server for the Book App <br>
+This is the Back End server for the Angular Book App <br>
 # Getting Started
 
 To get started with the app, follow these simple steps:
